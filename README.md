@@ -8,8 +8,9 @@ Data enthusiast who loves building highways for data and turns messy numbers int
 
 <h4>:mailbox: Reach me out!</h4>
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagraj-poudel-4404b224b%2F)](https://www.linkedin.com/in/agraj-poudel-4404b224b/)
 [![Static Badge](https://img.shields.io/badge/agraj.p7-black?style=flat&logo=gmail&color=%233b3b3b)](mailto:agraj.p7@gmail.com)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagraj-poudel-4404b224b%2F)](https://www.linkedin.com/in/agraj-poudel-4404b224b/)
+[![Static Badge](https://img.shields.io/badge/-%23282828?style=flat&logo=tableau&label=_agrajp&labelColor=%23282828&link=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fagraj6810%2Fvizzes)](https://public.tableau.com/app/profile/agraj6810/vizzes)
 [![Static Badge](https://img.shields.io/badge/%40maybeagraj-e74c3c?style=flat&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40maybeAgraj)](https://www.youtube.com/@maybeAgraj)
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_agrajp&style=flat&logo=x&logoColor=white&label=%40_agrajp&labelColor=%23222222&color=%23222222)
 [![Static Badge](https://img.shields.io/badge/-%23181818?style=flat&logo=Instagram&label=_agrajp&labelColor=%23181818&color=%23181818&link=https%3A%2F%2Fwww.instagram.com%2F_agrajp%2F)](https://www.instagram.com/_agrajp/)
@@ -23,12 +24,9 @@ Data enthusiast who loves building highways for data and turns messy numbers int
 - 📫 How to reach me: agraj.p7@gmail.com.
 - ⚡ Fun fact: I like to play games 🎮🎮 and drink Beer 🍺🍺.
 
-<h4> Top Technologies </h4>
+<h4> Top Tools and Technologies </h4>
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<!-- TODO: Make technologies links take you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+![Static Badge](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau&labelColor=black&color=white&link=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fagraj6810%2Fvizzes)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
